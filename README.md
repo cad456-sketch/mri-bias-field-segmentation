@@ -26,8 +26,9 @@ Whole-brain grey matter volume changed only +0.9% under the gradient, but by hei
 - The "answer key" is the most likely tissue from probability maps, not a manual labeling.
 - Educational project, not for medical use.
 
-## Run it
+# Run it
 Open `mri_bias_field_segmentation.ipynb` in Google Colab (or Jupyter) and run all cells. It needs internet on the first run to download the MNI152 data.
 
 
-- Built by Christopher Dass
+
+# Built by Christopher Dass
