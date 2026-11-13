@@ -12,7 +12,7 @@ A brain MRI is a 3D grid of brightness values. On a T1 scan, fluid (CSF) is dark
 # Key finding
 Whole-brain grey matter volume changed only +0.9% under the gradient, but by height layer it changed +11.0% in the bottom fifth and -20.3% in the top fifth. The errors cancel in the total, so a single overall number hides the problem.
 
-![Seesaw](comparison (1).png)
+![Seesaw](comparison(1).png)
 
 *Grey matter change vs. the clean scan, by height layer (bottom to top).*
 
